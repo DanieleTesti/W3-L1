@@ -21,7 +21,7 @@ function checkArray() {
   console.log("somma: " + somma);
 }
 
-// checkArray();
+checkArray();
 
 /* EXTRA 2
  Nel tuo eCommerce disponi di un'array di oggetti chiamato "shoppingCart". Ognuno di questi oggetti ha le seguenti proprietà: "price", "name", "id" e "quantity".
